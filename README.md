@@ -1,2 +1,3 @@
-# Digital_Twin_App
-A Streamlit app for predicting pavement failure based on ESALs
+# Pavement Twin App
+
+A Streamlit app to predict pavement failure year based on ESAL inputs.
